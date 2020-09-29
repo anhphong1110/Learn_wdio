@@ -1,0 +1,24 @@
+{
+  "name": "Learn_wdio",
+  "version": "1.0.0",
+  "description": "Learn automation with webdriveio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhphong1110/Learn_wdio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhphong1110/Learn_wdio/issues"
+  },
+  "homepage": "https://github.com/anhphong1110/Learn_wdio#readme",
+  "dependencies": {
+    "@wdio/local-runner": "^6.5.2",
+    "webdriverio": "^6.5.2"
+  }
+}
