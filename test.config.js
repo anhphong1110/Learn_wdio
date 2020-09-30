@@ -1,14 +1,14 @@
-exports.config ={
-    runner:'local',
+exports.config = {
+    runner: 'local',
 
     //Derlace sever info
     hostname: 'localhost',
     port: 9515,
-    path:'/',
+    path: '/',
 
     // Mocha
     framework: 'mocha',
-    mochoOpts:{
+    mochoOpts: {
         ui: 'bdd'
     }
 }
