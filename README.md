@@ -1,2 +1,2 @@
 # Learn_wdio
-Learn automation with webdriveio 
+Learn automation with webdriverio 
