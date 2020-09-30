@@ -20,5 +20,8 @@
   "dependencies": {
     "@wdio/local-runner": "^6.5.2",
     "webdriverio": "^6.5.2"
+  },
+  "devDependencies": {
+    "@wdio/mocha-framework": "^6.5.0"
   }
 }
