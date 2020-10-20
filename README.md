@@ -1,3 +1,2 @@
 # Learn_wdio
-Learn automation with webdriverio nhanh-1
-
+Learn automation with webdriverio master
