@@ -4,7 +4,7 @@
   "description": "Learn automation with webdriveio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "wdio"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/anhphong1110/Learn_wdio#readme",
   "dependencies": {
+    "@wdio/cli": "^6.5.2",
     "@wdio/local-runner": "^6.5.2",
+    "@wdio/sync": "^6.5.0",
     "webdriverio": "^6.5.2"
   },
   "devDependencies": {
